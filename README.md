@@ -359,3 +359,4 @@ For issues and questions, please open an issue on GitHub or contact support.
 ```text file=".env.example"
 # Frontend Environment Variables
 NEXT_PUBLIC_API_URL=http://localhost:5000
+Updated project documentation.
