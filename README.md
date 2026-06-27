@@ -101,7 +101,7 @@ A modern, full-stack authentication system built with Flask, PostgreSQL, Next.js
 4. **Setup environment variables**
    \`\`\`bash
    cp .env.example .env
-   \`\`\`
+   \`\`\`\\
 
 5. **Edit `.env` file with your settings**
    \`\`\`
