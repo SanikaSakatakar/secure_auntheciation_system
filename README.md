@@ -28,7 +28,7 @@ A modern, full-stack authentication system built with Flask, PostgreSQL, Next.js
 - **Animations**: Framer Motion
 - **HTTP Client**: Axios
 - **Notifications**: React Hot Toast
-- **Icons**: Lucide React
+- **Icons**: Lucide React file
 
 ## Project Structure
 
