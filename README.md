@@ -1,6 +1,6 @@
 # SecureAuth - Secure Authentication System
 
-A modern, full-stack authentication system built with Flask, PostgreSQL, Next.js, and Tailwind CSS. Features JWT token authentication, bcrypt password hashing, animated UI, and complete security best practices.
+A modern, full-stack authentication system built with Flask, PostgreSQL, Next.js, and Tailwind CSS. Features JWT token authentication, bcrypt password hashing, animated UI, and complete security best pratices.
 
 ## Features
 
@@ -30,7 +30,7 @@ A modern, full-stack authentication system built with Flask, PostgreSQL, Next.js
 - **Notifications**: React Hot Toast
 - **Icons**: Lucide React file
 
-## Project Structure
+## a complete Project Structure
 
 \`\`\`
 ├── backend/
