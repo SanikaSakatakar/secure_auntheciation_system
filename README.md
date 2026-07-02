@@ -15,7 +15,7 @@ A modern, full-stack authentication system built with Flask, PostgreSQL, Next.js
 
 ## Tech Stack
 
-### Backend
+### Backend System
 - **Framework**: Flask 2.3.3
 - **Database**: PostgreSQL
 - **ORM**: SQLAlchemy
