@@ -2,7 +2,7 @@
 
 A modern, full-stack authentication system built with Flask, PostgreSQL, Next.js, and Tailwind CSS. Features JWT token authentication, bcrypt password hashing, animated UI, and complete security best pratices.
 
-## Features Of Project
+## Features Of the Project
 
 - **Secure Backend**: Flask with JWT authentication and bcrypt password hashing (12 salt rounds)
 - **PostgreSQL Database**: Reliable data persistence with proper indexing
