@@ -13,7 +13,7 @@ A modern, full-stack authentication system built with Flask, PostgreSQL, Next.js
 - **Error Handling**: Comprehensive error handling with user-friendly toast notifications
 - **Clean Code**: Modular architecture with separation of concerns
 
-## Tech Stack Of Project
+## Tech Stack 
 
 ### Backend System
 - **Framework**: Flask 2.3.3
