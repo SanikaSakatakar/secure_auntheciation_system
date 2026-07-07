@@ -80,7 +80,7 @@ A modern, full-stack authentication system built with Flask, PostgreSQL, Next.js
 - PostgreSQL 12+
 - npm or yarn
 
-### Backend Setup
+### Backend Setup of project
 
 1. **Navigate to backend directory**
    \`\`\`bash
