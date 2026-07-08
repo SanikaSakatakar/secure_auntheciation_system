@@ -72,7 +72,7 @@ A modern, full-stack authentication system built with Flask, PostgreSQL, Next.js
 
 ## Setup Instructions
 
-### Prerequisites
+### Prerequisites of the project
 
 - Python 3.8+
 - Node.js 18+
