@@ -29,7 +29,7 @@ A modern, full-stack authentication system built with Flask, PostgreSQL, Next.js
 - **Notifications**: React Hot Toast
 - **Icons**: Lucide React file
 
-## Project Structure
+## a complte Project Structure
 
 \`\`\`
 ├── backend/
