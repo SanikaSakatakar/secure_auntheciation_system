@@ -20,7 +20,7 @@ A modern, full-stack authentication system built with Flask, PostgreSQL, Next.js
 - **Database**: PostgreSQL
 - **ORM**: SQLAlchemy
 - **Authentication**: PyJWT + bcrypt
-- **API**: RESTful architecture.
+- **API**: RESTful architecture
 
 ### Frontend
 - **Framework**: Next.js 15+ with App Router
