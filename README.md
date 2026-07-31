@@ -10,7 +10,7 @@ A modern, full-stack authentication system built with Flask, PostgreSQL, Next.js
 - **Token Management**: 1-hour JWT token expiry with automatic refresh handling
 - **Profile Management**: Users can view and update their profile information
 - **Error Handling**: Comprehensive error handling with user-friendly toast notifications
-- **Clean Code**: Modular architecture with separation of concerns
+- **Clean Code**: Modular architecture with separation of concerns.
 
 
 ## TechStack
