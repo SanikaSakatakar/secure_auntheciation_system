@@ -13,7 +13,6 @@ A modern, full-stack authentication system built with Flask, PostgreSQL, Next.js
 - **Clean Code**: Modular architecture with separation of concerns
 
 
-
 ## Tech-Stack
 
 ### Backend System
