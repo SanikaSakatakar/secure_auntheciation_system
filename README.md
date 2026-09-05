@@ -5,7 +5,7 @@ A modern, full-stack authentication system built with Flask, PostgreSQL, Next.js
 ## Features
 - **Secure Backend**: Flask with JWT authentication and bcrypt password hashing (12 salt rounds)
 - **PostgreSQL Database**: Reliable data persistence with proper indexing
-- **Modern Frontend**: Next.js with Framer Motion animations and responsive design
+- **Modern Frontend**: Next.js with Framer Motion animations and responsive desig
 - **Authentication Flow**: Complete user registration, login, and protected routes
 - **Token Management**: 1-hour JWT token expiry with automatic refresh handling
 - **Profile Management**: Users can view and update their profile information
